@@ -1,0 +1,9 @@
+{
+  "catalogs": {},
+  "aliases": {
+    "yamlsort": {
+      "script-ref": "https://github.com/someth2say/yamlsort/blob/main/src/main/java/com/someth2say/YamlSort.java",
+      "description": "Utility script to sort a multi-document yaml file by using YamlPath values"
+    }
+  }
+}
